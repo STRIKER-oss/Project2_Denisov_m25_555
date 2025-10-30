@@ -12,10 +12,6 @@ publish:
 
 package-install:
 	python3 -m pip install dist/*.whl
-
-lint:
-	poetry run ruff check .
-
 clean:
 	rm -rf dist
 	rm -rf .ruff_cache
@@ -23,4 +19,7 @@ clean:
 test:
 	poetry run python -m src.primitive_db.main
 project:
-	poetry run project	
+	poetry run project
+make lint:
+	 poetry run ruff check .
+ 
