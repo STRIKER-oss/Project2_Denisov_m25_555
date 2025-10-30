@@ -22,3 +22,5 @@ clean:
 
 test:
 	poetry run python -m src.primitive_db.main
+project:
+	poetry run project	
