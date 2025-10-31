@@ -1,8 +1,9 @@
-# Primitive DB Project
+# Project2 Denisov M25-555
 
-Учебный проект простой базы данных на Python.
+Проект базы данных с интерфейсом командной строки.
 
 ## Установка
 
 ```bash
 make install
+make package-install
