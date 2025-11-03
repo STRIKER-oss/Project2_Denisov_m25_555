@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "item": "Laptop",
+    "category": "Electronics",
+    "price": 1200,
+    "stock": 15,
+    "available": true
+  },
+  {
+    "ID": 3,
+    "item": "Desk",
+    "category": "Furniture",
+    "price": 300,
+    "stock": 20,
+    "available": true
+  },
+  {
+    "ID": 4,
+    "item": "Chair",
+    "category": "Furniture",
+    "price": 150,
+    "stock": 12,
+    "available": true
+  }
+]

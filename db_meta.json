@@ -1,1 +1,16 @@
-{}
+{
+  "employees": {
+    "ID": "int",
+    "full_name": "str",
+    "department": "str",
+    "salary": "int",
+    "experience_years": "int",
+    "remote_work": "bool"
+  },
+  "users": {
+    "ID": "int",
+    "name": "str",
+    "age": "int",
+    "active": "bool"
+  }
+}

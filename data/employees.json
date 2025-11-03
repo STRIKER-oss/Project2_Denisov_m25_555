@@ -1,0 +1,34 @@
+[
+  {
+    "ID": 1,
+    "full_name": "Ivan Petrov",
+    "department": "Engineering",
+    "salary": 85000,
+    "experience_years": 5,
+    "remote_work": true
+  },
+  {
+    "ID": 2,
+    "full_name": "Maria Sidorova",
+    "department": "Marketing",
+    "salary": 68000,
+    "experience_years": 3,
+    "remote_work": false
+  },
+  {
+    "ID": 3,
+    "full_name": "Alexey Smirnov",
+    "department": "Engineering",
+    "salary": 95000,
+    "experience_years": 7,
+    "remote_work": true
+  },
+  {
+    "ID": 4,
+    "full_name": "Olga Kuznetsova",
+    "department": "HR",
+    "salary": 55000,
+    "experience_years": 2,
+    "remote_work": true
+  }
+]
